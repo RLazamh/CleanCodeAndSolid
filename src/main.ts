@@ -1,4 +1,5 @@
 import './style.css'
+import './01-names/05-dry'
 
 const app = document.querySelector<HTMLDivElement>('#app')!
 
