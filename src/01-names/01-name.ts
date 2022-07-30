@@ -18,7 +18,7 @@
     class AbstractUser { };
     class UserMixin { };
     class UserImplementation { };
-    interface IUser { };
+    interface User { };
 
     // Mejor
     class User { };
