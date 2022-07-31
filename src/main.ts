@@ -1,5 +1,5 @@
 import './style.css'
-import './01-names/06-classes-c'
+import './01-names/07-task'
 // import './01-names/05-dry'
 
 const app = document.querySelector<HTMLDivElement>('#app')!
