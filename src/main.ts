@@ -3,7 +3,8 @@ import './style.css'
 // import './01-names/05-dry'
 // import './02-code-smell/02-high-coupling'
 // import './02-code-smell/02-low-coupling'
-import './03-solid/01-srp'
+// import './03-solid/01-srp'
+import './03-solid/02-open-close-a'
 
 const app = document.querySelector<HTMLDivElement>('#app')!
 
